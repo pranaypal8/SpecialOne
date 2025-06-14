@@ -10,47 +10,6 @@ const images = [
   'https://theformalclub.in/cdn/shop/files/NEW-COLLECTION-BANNER-23_2.jpg?v=1721304243&width=3600'
 ];
 
-// const products = [
-//   {
-//     id: 1,
-//     title: "Peter England Men's",
-//     desc: "Solid Formal Shirt",
-//     price: 245,
-//     brand: "Peter England",
-//     image: "https://imagescdn.louisphilippe.com/img/app/product/9/916657-16341724.jpg?auto=format&w=390", 
-//     colors: ["#000", "#d9e5e2", "#97c7d1", "#d5d8d2"],
-//     tag: "New",
-//   },
-//   {
-//     id: 2,
-//     title: "Westside",
-//     desc: "WES Formals",
-//     price: 199,
-//     brand: "Westside",
-//     image: "https://imagescdn.louisphilippe.com/img/app/product/9/928912-13792844.jpg?auto=format&w=390",
-//     colors: ["#a1a946"],
-//   },
-//   {
-//     id: 3,
-//     title: "The Bear House",
-//     desc: "Men's Formal Shirt",
-//     price: 199,
-//     brand: "The Bear House",
-//     image: "https://imagescdn.louisphilippe.com/img/app/product/3/39735448-16770773.jpg?auto=format&w=390",
-//     colors: ["#d77766", "#ba9c58", "#a75f33"],
-//   },
-//   {
-//     id: 4,
-//     title: "Peter England Men's",
-//     desc: "Solid Formal Shirt",
-//     price: 245,
-//     brand: "Peter England",
-//     image: "https://imagescdn.louisphilippe.com/img/app/product/3/39638286-13258646.jpg?auto=format&w=390",
-//     colors: ["#000", "#d9e5e2", "#97c7d1", "#d5d8d2"],
-//     tag: "New",
-//   },
-// ];
-
 const products = [
   {
     id: 1,
