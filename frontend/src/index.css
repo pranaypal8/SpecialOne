@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Anurati';
+  src: url('/fonts/Anurati.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'playfair';
+  src: url('/fonts/Playfair.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.news-marquee {
+  overflow: hidden;
+  position: relative;
+  white-space: nowrap;
+}
+
+.news-track {
+  display: inline-block;
+  white-space: nowrap;
+  animation: scrollLeft 20s linear infinite;
+  font-size: 1rem;
+  color: white;
+  display: flex;
+  gap: 4rem;
+}
+
+@keyframes scrollLeft {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+
+
+
+
