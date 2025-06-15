@@ -139,6 +139,8 @@ const products = [
   },
 ];
 
+
+
 const collection = () => {
   const [current, setCurrent] = useState(0);
 
@@ -242,6 +244,8 @@ const collection = () => {
           ))}
         </div>
       </div>
+
+
 
       <Footer />
     </>
