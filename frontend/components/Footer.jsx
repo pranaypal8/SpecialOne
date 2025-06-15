@@ -17,7 +17,7 @@ const Footer = () => {
             <p className="text-sm ">
               We have clothes that suits your style and which you're proud to wear.
             </p>
-            <div className="flex space-x-4 text-gray-700">
+            <div className="flex space-x-4 text-gray-700 mt-3">
               <FaTwitter className="hover:text-black cursor-pointer" />
               <FaFacebookF className="hover:text-black cursor-pointer" />
               <FaInstagram className="hover:text-black cursor-pointer" />
