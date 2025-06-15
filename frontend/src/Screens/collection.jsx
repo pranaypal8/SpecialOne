@@ -197,6 +197,8 @@ const collection = () => {
           ))}
         </div>
       </section>
+
+
       <div className="min-h-screen bg-gray-50">
       <h2 className="text-4xl md:text-5xl font-extrabold text-center text-gray-800 tracking-wide mb-6 font-Playfair mt-6 after:content-[''] after:block after:w-16 after:h-1 after:bg-black after:mx-auto after:mt-1.5">
         Collection
