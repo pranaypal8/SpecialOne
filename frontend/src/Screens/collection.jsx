@@ -66,6 +66,7 @@ const products = [
     brand: "The Bear House",
     image: "https://imagescdn.louisphilippe.com/img/app/product/3/39903446-18971126.jpg?auto=format&w=390",
     colors: ["#e1cfc5", "#444", "#000"],
+    tag: "New",
   },
   {
     id: 7,
@@ -75,6 +76,7 @@ const products = [
     brand: "Westside",
     image: "https://imagescdn.louisphilippe.com/img/app/product/3/39703548-19213778.jpg?auto=format&w=390",
     colors: ["#d0dbec", "#b0c4de"],
+    
   },
   {
     id: 8,
@@ -103,6 +105,7 @@ const products = [
     brand: "The Bear House",
     image: "https://imagescdn.louisphilippe.com/img/app/product/9/933967-13792484.jpg?auto=format&w=390",
     colors: ["#f5d1c4", "#c1a18a"],
+     tag: "New",
   },
   {
     id: 11,
@@ -121,6 +124,7 @@ const products = [
     brand: "Westside",
     image: "https://imagescdn.louisphilippe.com/img/app/product/8/859007-13787504.jpg?auto=format&w=390",
     colors: ["#bdd4d1", "#b0ccbb"],
+     tag: "New",
   },
 ];
 
